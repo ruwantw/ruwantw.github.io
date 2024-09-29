@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ruwan Wickramarachchi",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ruwan@email.sc.edu",
+    "url": "https://ruwantw.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "512",
+      "postalCode": "SC 29208",
+      "city": "Columbia",
       "countryCode": "US",
-      "region": "California"
+      "region": "South Carolina"
     },
     "profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://twitter.com/ruwantw"
       }
     ]
   },
