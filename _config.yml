@@ -98,7 +98,7 @@ quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 _userid: _p-lrBkAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
+semantic_id: # your Semantic  ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
@@ -205,7 +205,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -264,7 +264,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+  - jekyll/
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ruwan]
-  first_name: [Wickramarachchi]
+  last_name: [Wickramarachchi]
+  first_name: [Ruwan]
 
   style: apa
   locale: en
