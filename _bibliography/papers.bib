@@ -1,3 +1,80 @@
+
+@inproceedings{wickramarachchi2024benchmark,
+  abbr={ISWC2024},
+  bibtex_show={true},
+  title={A Benchmark Knowledge Graph of Driving Scenes for Knowledge Completion Tasks},
+  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
+  booktitle={The 23rd International Semantic Web Conference (ISWC)},
+  year={2024},
+  preview={ISWC_2024.png},
+  selected={true},
+  code={https://github.com/ruwantw/DSceneKG},
+  abstract="Knowledge graph completion (KGC) is a problem of significant importance due to the inherent incompleteness in knowledge graphs (KGs). The current approaches for KGC using link prediction (LP) mostly rely on a common set of benchmark datasets that are quite different from real-world industrial KGs. Therefore, the adaptability of current LP methods for real-world KGs and domain-specific applications is questionable. To support the evaluation of current and future LP and KGC methods for industrial KGs, we introduce DSceneKG, a suite of real-world driving scene knowledge graphs that are currently being used across various industrial applications. The DSceneKG is publicly available at: https://github.com/ruwantw/DSceneKG."
+}
+
+
+@inproceedings{wijesiriwardene2024relationship,
+  abbr={EACL2024},
+  bibtex_show={true},
+  title={On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models},
+  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Reganti, Aishwarya Naresh and Jain, Vinija and Chadha, Aman and Sheth, Amit and Das, Amitava},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  pages={451--457},
+  year={2024},
+  abstract = "The ability of Large Language Models (LLMs) to encode syntactic and semantic structures of language is well examined in NLP. Additionally, analogy identification, in the form of word analogies are extensively studied in the last decade of language modeling literature. In this work we specifically look at how LLMs{'} abilities to capture sentence analogies (sentences that convey analogous meaning to each other) vary with LLMs{'} abilities to encode syntactic and semantic structures of sentences. Through our analysis, we find that LLMs{'} ability to identify sentence analogies is positively correlated with their ability to encode syntactic and semantic structures of sentences. Specifically, we find that the LLMs which capture syntactic structures better, also have higher abilities in identifying sentence analogies.",
+  preview={eacl2024.png},
+  selected={true}
+}
+
+@inproceedings{wijesiriwardene2023analogical,
+  abbr={ACL2023},
+  bibtex_show={true},
+  title={ANALOGICAL-A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models},
+  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Gajera, Bimal and Gowaikar, Shreeyash and Gupta, Chandan and Chadha, Aman and Reganti, Aishwarya Naresh and Sheth, Amit and Das, Amitava},
+  abstract={Over the past decade, analogies, in the form of word-level analogies, have played a significant role as an intrinsic measure of evaluating the quality of word embedding methods such as word2vec. Modern large language models (LLMs), however, are primarily evaluated on extrinsic measures based on benchmarks such as GLUE and SuperGLUE, and there are only a few investigations on whether LLMs can draw analogies between long texts. In this paper, we present ANALOGICAL, a new benchmark to intrinsically evaluate LLMs across a taxonomy of analogies of long text with six levels of complexity – (i) word, (ii) word vs. sentence, (iii) syntactic, (iv) negation, (v) entailment, and (vi) metaphor. Using thirteen datasets and three different distance measures, we evaluate the abilities of eight LLMs in identifying analogical pairs in the semantic vector space. Our evaluation finds that it is increasingly challenging for LLMs to identify analogies when going up the analogy taxonomy.},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={3534--3549},
+  year={2023},
+  pdf={https://aclanthology.org/2023.findings-acl.218/},
+  poster={acl2023.png},
+  preview={acl2023.png},
+  selected={true}
+}
+
+@inproceedings{wickramarachchi2023clue,
+  abbr={AAAI2023},
+  bibtex_show={true},
+  title={CLUE-AD: A context-based method for labeling unobserved entities in autonomous driving data},
+  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={13},
+  pages={16491--16493},
+  year={2023},
+  preview={AAAI_2023.png},
+  selected={true},
+  abstract="Generating high-quality annotations for object detection and recognition is a challenging and important task, especially in relation to safety-critical applications such as autonomous driving (AD). Due to the difficulty of perception in challenging situations such as occlusion, degraded weather, and sensor failure, objects can go unobserved and unlabeled. In this paper, we present CLUE-AD, a general-purpose method for detecting and labeling unobserved entities by leveraging the object continuity assumption within the context of a scene. This method is dataset-agnostic, supporting any existing and future AD datasets. Using a real-world dataset representing complex urban driving scenes, we demonstrate the applicability of CLUE-AD for detecting unobserved entities and augmenting the scene data with new labels."
+}
+
+
+@article{wickramarachchi2021knowledge,
+  abbr={Frontiers},
+  bibtex_show={true},
+  title={Knowledge-infused Learning for Entity Prediction in Driving Scenes},
+  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
+  journal={Frontiers in Big Data},
+  volume={4},
+  number={759110},
+  pages={98},
+  year={2021},
+  publisher={Frontiers},
+  preview={Frontiers_2021.png},
+  selected={true},
+  abstract="Scene understanding is a key technical challenge within the autonomous driving domain. It requires a deep semantic understanding of the entities and relations found within complex physical and social environments that is both accurate and complete. In practice, this can be accomplished by representing entities in a scene and their relations as a knowledge graph (KG). This scene knowledge graph may then be utilized for the task of entity prediction, leading to improved scene understanding. In this paper, we will define and formalize this problem as Knowledge-based Entity Prediction (KEP). KEP aims to improve scene understanding by predicting potentially unrecognized entities by leveraging heterogeneous, high-level semantic knowledge of driving scenes. An innovative neuro-symbolic solution for KEP is presented, based on knowledge-infused learning, which 1) introduces a dataset agnostic ontology to describe driving scenes, 2) uses an expressive, holistic representation of scenes with knowledge graphs, and 3) proposes an effective, non-standard mapping of the KEP problem to the problem of link prediction (LP) using knowledge-graph embeddings (KGE). Using real, complex and high-quality data from urban driving scenes, we demonstrate its effectiveness by showing that the missing entities may be predicted with high precision (0.87 Hits@1) while significantly outperforming the non-semantic/rule-based baselines."
+}
+
+
+
 @article{ranaweera2013lightweight,
   abbr={ICCSE},
   bibtex_show={true},
@@ -61,21 +138,7 @@
   abstract="Deep Learning has shown remarkable success during the last decade for essential tasks in computer vision and natural language processing. Yet, challenges remain in the development and deployment of artificial intelligence (AI) models in real-world cases, such as dependence on extensive data and trust, explainability, traceability, and interactivity. These challenges are amplified in high-risk fields, including healthcare, cyber threats, crisis response, autonomous driving, and future manufacturing. On the other hand, symbolic computing with knowledge graphs has shown significant growth in specific tasks with reliable performance. This tutorial (a) discusses the novel paradigm of knowledge-infused deep learning to synthesize neural computing with symbolic computing (b) describes different forms of knowledge and infusion methods in deep learning, and (c) discusses application-specific evaluation methods to assure explainability and reasoning using benchmark datasets and knowledge-resources. The resulting paradigm of "knowledge-infused learning'' combines knowledge from both domain expertise and physical models. A wide variety of techniques involving shallow, semi-deep, and deep infusion will be discussed along with the corresponding intuitions, limitations, use cases, and applications."
 }
 
-@article{wickramarachchi2021knowledge,
-  abbr={Frontiers},
-  bibtex_show={true},
-  title={Knowledge-infused Learning for Entity Prediction in Driving Scenes},
-  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
-  journal={Frontiers in Big Data},
-  volume={4},
-  number={759110},
-  pages={98},
-  year={2021},
-  publisher={Frontiers},
-  preview={Frontiers_2021.png},
-  selected={true},
-  abstract="Scene understanding is a key technical challenge within the autonomous driving domain. It requires a deep semantic understanding of the entities and relations found within complex physical and social environments that is both accurate and complete. In practice, this can be accomplished by representing entities in a scene and their relations as a knowledge graph (KG). This scene knowledge graph may then be utilized for the task of entity prediction, leading to improved scene understanding. In this paper, we will define and formalize this problem as Knowledge-based Entity Prediction (KEP). KEP aims to improve scene understanding by predicting potentially unrecognized entities by leveraging heterogeneous, high-level semantic knowledge of driving scenes. An innovative neuro-symbolic solution for KEP is presented, based on knowledge-infused learning, which 1) introduces a dataset agnostic ontology to describe driving scenes, 2) uses an expressive, holistic representation of scenes with knowledge graphs, and 3) proposes an effective, non-standard mapping of the KEP problem to the problem of link prediction (LP) using knowledge-graph embeddings (KGE). Using real, complex and high-quality data from urban driving scenes, we demonstrate its effectiveness by showing that the missing entities may be predicted with high precision (0.87 Hits@1) while significantly outperforming the non-semantic/rule-based baselines."
-}
+
 
 @inproceedings{wijesiriwardene2022towards,
   abbr={Analogies22@ICCBR},
@@ -114,20 +177,7 @@
   abstract="Knowledge-based entity prediction (KEP) is a novel task that aims to improve machine perception in autonomous systems. KEP leverages relational knowledge from heterogeneous sources in predicting potentially unrecognized entities. In this article, we provide a formal definition of KEP as a knowledge completion task. Three potential solutions are then introduced, which employ several machine learning and data mining techniques. Finally, the applicability of KEP is demonstrated on two autonomous systems from different domains; namely, autonomous driving and smart manufacturing. We argue that in complex real-world systems, the use of KEP would significantly improve machine perception while pushing the current technology one step closer to achieving full autonomy."
 }
 
-@inproceedings{wickramarachchi2023clue,
-  abbr={AAAI2023},
-  bibtex_show={true},
-  title={CLUE-AD: A context-based method for labeling unobserved entities in autonomous driving data},
-  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={37},
-  number={13},
-  pages={16491--16493},
-  year={2023},
-  preview={AAAI_2023.png},
-  selected={true},
-  abstract="Generating high-quality annotations for object detection and recognition is a challenging and important task, especially in relation to safety-critical applications such as autonomous driving (AD). Due to the difficulty of perception in challenging situations such as occlusion, degraded weather, and sensor failure, objects can go unobserved and unlabeled. In this paper, we present CLUE-AD, a general-purpose method for detecting and labeling unobserved entities by leveraging the object continuity assumption within the context of a scene. This method is dataset-agnostic, supporting any existing and future AD datasets. Using a real-world dataset representing complex urban driving scenes, we demonstrate the applicability of CLUE-AD for detecting unobserved entities and augmenting the scene data with new labels."
-}
+
 
 @article{el2023semantic,
   abbr={IEEE-IS},
@@ -181,18 +231,7 @@
   abstract="Rapid development of autonomous vehicles has enabled the collection of huge amounts of multimodal road traffic data resulting in large knowledge graphs for autonomous driving. These knowledge graphs typically storing factual statements like “scene 1 includes parking area”, have proved to be useful complements for computer vision models especially for tasks like object prediction in a scene. However, they do not capture inter-object commonsense relationships (e.g., “car is smaller than truck ” or “car accelerates faster than bicycle”), on which human drivers rely subconsciously when making decisions. Existing commonsense repositories target mainly general purpose domains, and their coverage with respect to driving scenarios is very limited, prohibiting a straightforward integration. To bridge this gap, we extend existing autonomous driving knowledge graphs with commonsense knowledge, and demonstrate empirically the benefits of such extension for two downstream applications: object prediction and explainable scene clustering."
 }
 
-@inproceedings{wijesiriwardene2024relationship,
-  abbr={EACL2024},
-  bibtex_show={true},
-  title={On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models},
-  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Reganti, Aishwarya Naresh and Jain, Vinija and Chadha, Aman and Sheth, Amit and Das, Amitava},
-  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
-  pages={451--457},
-  year={2024},
-  abstract = "The ability of Large Language Models (LLMs) to encode syntactic and semantic structures of language is well examined in NLP. Additionally, analogy identification, in the form of word analogies are extensively studied in the last decade of language modeling literature. In this work we specifically look at how LLMs{'} abilities to capture sentence analogies (sentences that convey analogous meaning to each other) vary with LLMs{'} abilities to encode syntactic and semantic structures of sentences. Through our analysis, we find that LLMs{'} ability to identify sentence analogies is positively correlated with their ability to encode syntactic and semantic structures of sentences. Specifically, we find that the LLMs which capture syntactic structures better, also have higher abilities in identifying sentence analogies.",
-  preview={eacl2024.png},
-  selected={true}
-}
+
 
 
 @inproceedings{balappanawar2024towards,
@@ -221,20 +260,6 @@
   abstract="Rare events are occurrences that take place with a significantly lower frequency than more common, regular events. These events can be categorized into distinct categories, from frequently rare to extremely rare, based on factors like the distribution of data and significant differences in rarity levels. In manufacturing domains, predicting such events is particularly important, as they lead to unplanned downtime, a shortening of equipment lifespans, and high energy consumption. Usually, the rarity of events is inversely correlated with the maturity of a manufacturing industry. Typically, the rarity of events affects the multivariate data generated within a manufacturing process to be highly imbalanced, which leads to bias in predictive models. This paper evaluates the role of data enrichment techniques combined with supervised machine learning techniques for rare event detection and prediction. We use time series data augmentation and sampling to address the data scarcity, maintaining its patterns, and imputation techniques to handle null values. Evaluating 15 learning models, we find that data enrichment improves the F1 measure by up to 48% in rare event detection and prediction. Our empirical and ablation experiments provide novel insights, and we also investigate model interpretability."
 }
 
-@inproceedings{wijesiriwardene2023analogical,
-  abbr={ACL2023},
-  bibtex_show={true},
-  title={ANALOGICAL-A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models},
-  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Gajera, Bimal and Gowaikar, Shreeyash and Gupta, Chandan and Chadha, Aman and Reganti, Aishwarya Naresh and Sheth, Amit and Das, Amitava},
-  abstract={Over the past decade, analogies, in the form of word-level analogies, have played a significant role as an intrinsic measure of evaluating the quality of word embedding methods such as word2vec. Modern large language models (LLMs), however, are primarily evaluated on extrinsic measures based on benchmarks such as GLUE and SuperGLUE, and there are only a few investigations on whether LLMs can draw analogies between long texts. In this paper, we present ANALOGICAL, a new benchmark to intrinsically evaluate LLMs across a taxonomy of analogies of long text with six levels of complexity – (i) word, (ii) word vs. sentence, (iii) syntactic, (iv) negation, (v) entailment, and (vi) metaphor. Using thirteen datasets and three different distance measures, we evaluate the abilities of eight LLMs in identifying analogical pairs in the semantic vector space. Our evaluation finds that it is increasingly challenging for LLMs to identify analogies when going up the analogy taxonomy.},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
-  pages={3534--3549},
-  year={2023},
-  pdf={https://aclanthology.org/2023.findings-acl.218/},
-  poster={acl2023.png},
-  preview={acl2023.png},
-  selected={true}
-}
 
 @inproceedings{jaimini2024ontology,
   abbr={ISWC-WOP},
@@ -247,14 +272,3 @@
   abstract="RelationType is a metapattern that specifies a property in a knowledge graph that directly links the head of a triple with the type of the tail. This metapattern is useful for knowledge graph link prediction tasks, specifically when one wants to predict the type of a linked entity rather than the entity instance itself. The RelationType metapattern serves as a template for future extensions of an ontology with more fine-grained domain information."
 }
 
-@inproceedings{wickramarachchi2024benchmark,
-  abbr={ISWC2024},
-  bibtex_show={true},
-  title={A Benchmark Knowledge Graph of Driving Scenes for Knowledge Completion Tasks},
-  author={Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
-  booktitle={The 23rd International Semantic Web Conference (ISWC)},
-  year={2024},
-  preview={ISWC_2024.png},
-  selected={true},
-  abstract="Knowledge graph completion (KGC) is a problem of significant importance due to the inherent incompleteness in knowledge graphs (KGs). The current approaches for KGC using link prediction (LP) mostly rely on a common set of benchmark datasets that are quite different from real-world industrial KGs. Therefore, the adaptability of current LP methods for real-world KGs and domain-specific applications is questionable. To support the evaluation of current and future LP and KGC methods for industrial KGs, we introduce DSceneKG, a suite of real-world driving scene knowledge graphs that are currently being used across various industrial applications. The DSceneKG is publicly available at: https://github.com/ruwantw/DSceneKG."
-}
