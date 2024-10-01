@@ -40,7 +40,7 @@
     },
     {
       "organization": "London Stock Exchange Group",
-      "position": "Senior Software Engineer (Machine Learning),
+      "position": "Senior Software Engineer (Machine Learning)",
       "startDate": "2014-02",
       "endDate": "2027-07",
       "summary": ["Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.", "Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators."],
@@ -65,7 +65,7 @@
   "education": [
     {
       "institution": "University of South Carolina",
-      "location": "Columbia, SC,
+      "location": "Columbia, SC",
       "area": "Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2019-08",
@@ -73,7 +73,7 @@
     },
     {
       "institution": "Wright State University",
-      "location": "Dayton, OH,
+      "location": "Dayton, OH",
       "area": "Computer Science",
       "studyType": "M.Sc.",
       "startDate": "2017-08",
@@ -81,7 +81,7 @@
     },
     {
       "institution": "University of Colombo",
-      "location": "Columbo, Sri Lanka,
+      "location": "Columbo, Sri Lanka",
       "area": "Computer Science",
       "studyType": "B.Sc.",
       "startDate": "2009-10",
