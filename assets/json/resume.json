@@ -1,17 +1,17 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Ruwan Wickramarachchi",
-    "label": "Ph.D. Candidate, AI Institute, University of South Carolina",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "",
     "url": "",
     "summary": "",
     "location": {
-      "address": "",
+      "address": "AI Institute, University of South Carolina",
       "postalCode": "",
-      "city": "Columbia, SC",
-      "countryCode": "",
-      "region": "US"
+      "city": "Columbia",
+      "countryCode": "US",
+      "region": "South Carolina"
     },
     "profiles": [
       {
@@ -21,7 +21,7 @@
       }
     ]
   },
-  "Work Experience": [
+  "work": [
     {
       "name": "AI Institute, University of South Carolina",
       "location": "Columbia, SC",
@@ -42,7 +42,7 @@
       "organization": "London Stock Exchange Group",
       "position": "Senior Software Engineer (Machine Learning)",
       "startDate": "2014-02",
-      "endDate": "2017-07",
+      "endDate": "2027-07",
       "highlights": ["Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.", "Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators."]
     },
     {
@@ -54,7 +54,7 @@
       "highlights": ["Built a dataset agnostic ontology, and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.", "Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,027." ]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of South Carolina",
       "location": "Columbia, SC",
@@ -80,28 +80,8 @@
       "endDate": "2014-02"
     }
   ],
-  "Tutorials/ Talks": [
-    {
-      "institution": "The 20th International Semantic Web Conference (ISWC)",
-      "location": "Virtual",
-      "startDate": "2021-10-24",
-      "endDate": ""
-    },
-    {
-      "institution": "32nd ACM Conference on Hypertext and Social Media (ACM Hypertext)",
-      "location": "Virtual",
-      "startDate": "2021-08-30",
-      "endDate": ""
-    },
-    {
-      "institution": "3rd U.S. Semantic Technologies Symposium (US2TS)",
-      "location": "Raleigh, NC",
-      "startDate": "2020-03-11",
-      "endDate": ""
-    }
-  ],
   
-  "Interests": [
+  "interests": [
     {
       "name": "Artificial Intelligence",
       "keywords": [
@@ -114,7 +94,7 @@
     }
   ],
   "volunteer": {},
-  "awards": {},
+   "awards": {},
   "certificates": {},
   "publications": {},
   "skills": {},
