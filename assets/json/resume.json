@@ -1,17 +1,17 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Ruwan Wickramarachchi",
-    "label": "Ph.D. Candidate",
+    "label": "Ph.D. Candidate, AI Institute, University of South Carolina",
     "image": "",
-    "email": "ruwan@email.sc.edu",
-    "url": "https://ruwantw.github.io",
+    "email": "",
+    "url": "",
     "summary": "",
     "location": {
-      "address": "1112 Greene St.",
-      "postalCode": "29208",
-      "city": "Columbia",
-      "countryCode": "US",
-      "region": "South Carolina"
+      "address": "",
+      "postalCode": "",
+      "city": "Columbia, SC",
+      "countryCode": "",
+      "region": "US"
     },
     "profiles": [
       {
@@ -21,14 +21,14 @@
       }
     ]
   },
-  "work": [
+  "Work Experience": [
     {
       "name": "AI Institute, University of South Carolina",
       "location": "Columbia, SC",
       "position": "Graduate Research Assitant",
       "startDate": "2019-08",
       "endDate": "Present",
-      "summary": "Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing)"
+      "highlights": "Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing)"
     },
     {
       "name": "University of South Carolina",
@@ -36,13 +36,13 @@
       "position": "Graduate Teaching Assitant",
       "startDate": "2020-08",
       "endDate": "2021-05",
-      "summary": "Conducted labs and grading for the courses CSCE 145/146: Algorithms Design, and CSCE 311: Operating Systems."
+      "highlights": "Conducted labs and grading for the courses CSCE 145/146: Algorithms Design, and CSCE 311: Operating Systems."
     },
     {
       "organization": "London Stock Exchange Group",
       "position": "Senior Software Engineer (Machine Learning)",
       "startDate": "2014-02",
-      "endDate": "2027-07",
+      "endDate": "2017-07",
       "highlights": ["Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.", "Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators."]
     },
     {
@@ -51,18 +51,10 @@
       "position": "Research Intern - Neurosymbolic AI",
       "startDate": "2019-05",
       "endData": "2022-08",
-      "summary": ["Built a dataset agnostic ontology, and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.", "Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,027." ]
+      "highlights": ["Built a dataset agnostic ontology, and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.", "Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,027." ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Bosch Center for Artificial Intelligence",
-      "location": "Pittsburgh, PA",
-      "position": "Research Intern - Neurosymbolic AI",
-      "startDate": "2019-05"
-    }
-  ],
-  "education": [
+  "Education": [
     {
       "institution": "University of South Carolina",
       "location": "Columbia, SC",
@@ -88,8 +80,28 @@
       "endDate": "2014-02"
     }
   ],
+  "Tutorials/ Talks": [
+    {
+      "institution": "The 20th International Semantic Web Conference (ISWC)",
+      "location": "Virtual",
+      "startDate": "2021-10-24",
+      "endDate": ""
+    },
+    {
+      "institution": "32nd ACM Conference on Hypertext and Social Media (ACM Hypertext)",
+      "location": "Virtual",
+      "startDate": "2021-08-30",
+      "endDate": ""
+    },
+    {
+      "institution": "3rd U.S. Semantic Technologies Symposium (US2TS)",
+      "location": "Raleigh, NC",
+      "startDate": "2020-03-11",
+      "endDate": ""
+    }
+  ],
   
-  "interests": [
+  "Interests": [
     {
       "name": "Artificial Intelligence",
       "keywords": [
@@ -101,7 +113,8 @@
       ]
     }
   ],
-   "awards": {},
+  "volunteer": {},
+  "awards": {},
   "certificates": {},
   "publications": {},
   "skills": {},
