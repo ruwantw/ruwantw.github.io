@@ -22,5 +22,5 @@ I'm a Ph.D. candidate at the [AI Institute](https://aiisc.ai), University of Sou
 
 Previously, I've spent three productive summers at Bosch Center for AI in Pittsburgh, working with [Cory Henson](https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/) on exciting problems in knowledge representation and Neurosymbolic AI for autonomous driving.
 
-Before starting grad school, I spent 3.5 years at the London Stock Exchange Group (LSEG) as a Senior Software Engineer in the Machine Learning Research Group, where I focused on leveraging machine learning to enhance and develop novel solutions for LSEG's product stack.
+Before starting grad school, I spent 3.5 years at the [London Stock Exchange Group (LSEG)](https://www.lseg.com/en) as a Senior Software Engineer in the Machine Learning Research Group, where I focused on leveraging machine learning to enhance and develop novel solutions for LSEG's product stack.
 
