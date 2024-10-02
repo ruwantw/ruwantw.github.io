@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://aiisc.ai/'>AI Institute, University of South Carolina</a>
 
@@ -24,3 +24,4 @@ Previously, I've spent three productive summers at Bosch Center for AI in Pittsb
 
 Before starting grad school, I spent 3.5 years at the [London Stock Exchange Group (LSEG)](https://www.lseg.com/en) as a Senior Software Engineer in the Machine Learning Research Group, where I focused on leveraging machine learning to enhance and develop novel solutions for LSEG's product stack.
 
+I'm interested in applied research at the intersection of multimodal representation learning, where I leverage foundation models, Neurosymbolic AI, and knowledge representation and reasoning to develop methods that achieve improved cognitive and perceptual abilities.
