@@ -39,14 +39,15 @@
       "highlights": "Conducted labs and grading for the courses CSCE 145/146: Algorithms Design, and CSCE 311: Operating Systems."
     },
     {
-      "organization": "London Stock Exchange Group",
+      "name": "London Stock Exchange Group",
       "position": "Senior Software Engineer (Machine Learning)",
+      "location": "Malabe, Sri Lanka",
       "startDate": "2014-02",
       "endDate": "2027-07",
       "highlights": ["Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.", "Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators."]
     },
     {
-      "organization": "Bosch Center for Artificial Intelligence",
+      "name": "Bosch Center for Artificial Intelligence",
       "location": "Pittsburgh, PA",
       "position": "Research Intern - Neurosymbolic AI",
       "startDate": "2019-05",
