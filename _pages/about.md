@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate at the [AI Institute](https://aiisc.ai), University of South Carolina, advised by [Dr. Amit Sheth](https://aiisc.ai/amit). My research focuses on introducing a novel approach to scene understanding in autonomous systems through Neurosymbolic AI, with an emphasis  on building large-scale multimodal knowledge graphs and leveraging them to enhance machine perception and context understanding.
+I'm a Ph.D. candidate at the [AI Institute](https://aiisc.ai), University of South Carolina, advised by [Dr. Amit Sheth](https://amit.aiisc.ai/). My research focuses on introducing a novel approach to scene understanding in autonomous systems through Neurosymbolic AI, with an emphasis  on building large-scale multimodal knowledge graphs and leveraging them to enhance machine perception and context understanding.
 
 Previously, I spent three productive summers at Bosch Center for AI in Pittsburgh, working with [Dr. Cory Henson](https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/) on exciting problems in knowledge representation and Neurosymbolic AI for autonomous driving.
 
