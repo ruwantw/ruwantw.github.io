@@ -14,6 +14,10 @@ nav_order: 3
 
 <div class="publications">
 
-{% patents.bib %}
+{% bibliography --cited henson2023system %}
+
+{% bibliography --cited henson2023device %}
+
+{% bibliography --cited wickramarachchi2024system %}
 
 </div>
