@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_mod
 title: About
 permalink: /
 subtitle: <a href='https://aiisc.ai/'>AI Institute, University of South Carolina</a>
