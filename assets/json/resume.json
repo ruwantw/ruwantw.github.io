@@ -96,10 +96,18 @@
   ],
   "volunteer": [
     {
-      "name": "The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)",
+      "organization": "The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)",
       "location": "Toronto, Canada",
       "position": "Student Volunteer",
-      "startDate": "2023-07"
+      "startDate": "2023-07-09",
+      "endDate": "2023-07-14"
+    },
+    {
+      "organization": "The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020)",
+      "location": "New York, USA",
+      "position": "Student Volunteer",
+      "startDate": "2020-02-07",
+      "endDate": "2020-02-12"
     }
   ],
    "awards": {},
