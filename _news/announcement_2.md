@@ -10,4 +10,3 @@ Two papers accepted at [ISWC 2024](https://iswc2024.semanticweb.org/event/3715c6
 *  ["A Benchmark Knowledge Graph of Driving Scenes for Knowledge Completion Tasks"](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1636&context=aii_fac_pub) (Industry Track)
 *  ["Ontology Design Metapattern for RelationType Role Composition"](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1635&context=aii_fac_pub) (15th Workshop on Ontology Design and Patterns [(WOP 2024)](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/index.html))
 
----
