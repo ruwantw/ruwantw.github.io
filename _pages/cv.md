@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: "https://drive.google.com/file/d/1a671AeK2P0eVe85XxsMBq41983-5HgKC/view?usp=sharing"
+cv_pdf: "Ruwan_Wickramarachchi_CV_OnePage.pdf"
 description: ""
 toc:
   sidebar: left
