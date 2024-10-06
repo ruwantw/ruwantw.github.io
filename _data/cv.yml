@@ -27,8 +27,8 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Graduate Research Assitant
-      institution: AI Institute, University of South Carolina
+    - title: Graduate Research Assistant
+      institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
       year: 2019-08 - Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems.
@@ -39,7 +39,7 @@
             - Rare event detection and prediction in smart manufacturing/ Industry 4.0
 
     - title: Research Intern - Neurosymbolic AI
-      institution: Bosch Center for AI, Pittsburgh, PA.
+      institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
       year: 2019 - 2022 
       description:
        - Summer internships in 2019, 2020, and 2022.
@@ -47,13 +47,13 @@
        - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
 
     - title: Senior Software Engineer (Machine Learning)
-      institution: London Stock Exchange Group (LSEG)
+      institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
       year: 2014-02 - 2017-07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
         - Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators.
 
-    - title: Graduate Research Assitant
+    - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
       year: 2017-08 - 2019-05
       description:
@@ -81,7 +81,18 @@
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China
       year: 2022-10
-    - title: <a href="http://kidl2020.aiisc.ai"> Knowledge-infused Deep Learning </a>
-      institution: The 31st ACM Conference on Hypertext and Social Media (HT’20)
+    - title: <a href="https://dl.acm.org/doi/abs/10.1145/3372923.3404862"> Knowledge-infused Deep Learning </a>
+      institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual
       year: 2020-07
-            
+    - title: <a href="https://us2ts.org/2020/program-hybrid-ai"> Hybrid AI for Context Understanding </a>
+      institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC
+      year: 2020-03
+
+- title: Grant Writing
+  type: time_table
+  contents:
+    - title: NSF grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654&HistoricalAwards=false"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
+      contents:
+       - <em> Status </em> - Awarded (3.8+M) | <em> Role </em> - Significant contribution -- identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
+
+       
