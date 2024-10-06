@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Graduate Research Assitant
-      institution: [AI Institute](https://aiisc.ai), University of South Carolina
+      institution: AI Institute, University of South Carolina
       year: 2019-08 - Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing).
@@ -36,4 +36,5 @@
           contents:
             - Entity prediction in autonomous driving.
             - Label augmentation in existing datasets with information about unobserved entities.
-            - Rare event detection and prediction in smart manufacturing/ Industry 4.0
+            - Rare event detection and prediction in smart manufacturing/ Industry 4.0.
+            
