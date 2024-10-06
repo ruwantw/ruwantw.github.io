@@ -31,7 +31,7 @@
       institution: AI Institute, University of South Carolina
       year: 2019-08 - Present
       description:
-        - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing).
+        - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems.
         - title: Applications
           contents:
             - Entity prediction in autonomous driving.
@@ -63,15 +63,25 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Graduate Teaching Assitant
+    - title: Graduate Teaching Assistant
       institution: University of South Carolina, Columbia, SC.
       year: 2020-08 - 2021-05
       description:
-        - Conducted labs and grading for the courses CSCE 145/146 Algorithms Design, and CSCE 311 Operating Systems.
+        - Conducted labs and grading for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems courses.
     
-    - title: Graduate Teaching Assitant
+    - title: Graduate Teaching Assistant
       institution: Wright State University, Dayton, OH.
       year: 2020-08 - 2021-05
       description:
         - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
+
+- title: Tutorial/Workshop Organization
+  type: time_table
+  contents:
+    - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
+      institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China
+      year: 2022-10
+    - title: <a href="http://kidl2020.aiisc.ai"> Knowledge-infused Deep Learning </a>
+      institution: The 31st ACM Conference on Hypertext and Social Media (HT’20)
+      year: 2020-07
             
