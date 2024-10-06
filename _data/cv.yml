@@ -40,8 +40,9 @@
 
     - title: Research Intern - Neurosymbolic AI
       institution: Bosch Center for AI, Pittsburgh, PA.
-      year: 2019 - 2022 (Summers 2019, 2020 and 2022)
+      year: 2019 - 2022 
       description:
+       - Summer internships in 2019, 2020, and 2022.
        - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
        - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
 
