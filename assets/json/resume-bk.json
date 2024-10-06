@@ -26,24 +26,24 @@
       "name": "AI Institute, University of South Carolina",
       "location": "Columbia, SC",
       "position": "Graduate Research Assitant",
-      "startDate": "2019-08",
-      "endDate": "Present",
+      "startDate": "2019-08-28",
+      "endDate": "",
       "highlights": "Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing)"
     },
     {
       "name": "University of South Carolina",
       "location": "Columbia, SC",
       "position": "Graduate Teaching Assitant",
-      "startDate": "2020-08",
-      "endDate": "2021-05",
+      "startDate": "2020-08-15",
+      "endDate": "2021-05-04",
       "highlights": "Conducted labs and grading for the courses CSCE 145/146: Algorithms Design, and CSCE 311: Operating Systems."
     },
     {
       "name": "Bosch Center for Artificial Intelligence",
       "location": "Pittsburgh, PA",
       "position": "Research Intern - Neurosymbolic AI",
-      "startDate": "2019-05",
-      "endData": "2022-08",
+      "startDate": "2019-05-04",
+      "endData": "2022-08-30",
       "highlights": ["Built a dataset agnostic ontology, and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.", "Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,027." ]
     },
     {
@@ -51,7 +51,7 @@
       "position": "Senior Software Engineer (Machine Learning)",
       "location": "Malabe, Sri Lanka",
       "startDate": "2014-02",
-      "endDate": "2027-07",
+      "endDate": "2017-07",
       "highlights": ["Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.", "Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators."]
     }
   ],
