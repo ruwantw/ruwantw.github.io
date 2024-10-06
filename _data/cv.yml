@@ -3,7 +3,7 @@
   contents:
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
-      year: 2019-08 -- Present
+      year: 2019-08 - Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems.
         - title: Applications
@@ -14,7 +14,7 @@
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
-      year: 2019-05 -- 2022-08 
+      year: 2019-05 - 2022-08 
       description:
        - Summer internships in 2019, 2020, and 2022.
        - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
@@ -22,14 +22,14 @@
 
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
-      year: 2014-02  --  2017-07
+      year: 2014-02  -  2017-07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
         - Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators.
 
     - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
-      year: 2017-08 -- 2019-05
+      year: 2017-08 - 2019-05
       description:
         - Developed an extreme multi-label classification (XML) model using background knowledge to predict ICD-9 codes in MIMIC-III Electronic Medical Record.
         - Devised a framework for predicting the intensity of a user’s emotion based on unstructured short texts (e.g., tweets) and the affected category.
@@ -39,7 +39,7 @@
   contents:
     - title: Graduate Teaching Assistant
       institution: University of South Carolina, Columbia, SC.
-      year: 2020-08 -- 2021-05
+      year: 2020-08 - 2021-05
       description:
         - Conducted labs and grading for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems courses.
     
@@ -66,10 +66,9 @@
       year: 2020-03
 
 - title: Grant Writing
-  type: time_table
+  type: list
   contents:
-    - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654&HistoricalAwards=false"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
+    - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
       contents:
-       - Status - Awarded (3.8+M) | Role - Significant contribution -- identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
-
+        - <strong> Status </strong> - Awarded (3.8+M) | <strong> Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
        
