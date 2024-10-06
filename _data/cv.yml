@@ -60,18 +60,18 @@
         - Developed an extreme multi-label classification (XML) model using background knowledge to predict ICD-9 codes in MIMIC-III Electronic Medical Record.
         - Devised a framework for predicting the intensity of a user’s emotion based on unstructured short texts (e.g., tweets) and the affected category.
 
-    - title: Teaching Experience
-      type: time_table
-      contents:
-        - title: Graduate Teaching Assitant
-          institution: University of South Carolina, Columbia, SC.
-          year: 2020-08 - 2021-05
-          description:
-            - Conducted labs and grading for the courses CSCE 145/146 Algorithms Design, and CSCE 311 Operating Systems.
-        
-        - title: Graduate Teaching Assitant
-          institution: Wright State University, Dayton, OH.
-          year: 2020-08 - 2021-05
-          description:
-            - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Graduate Teaching Assitant
+      institution: University of South Carolina, Columbia, SC.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs and grading for the courses CSCE 145/146 Algorithms Design, and CSCE 311 Operating Systems.
+    
+    - title: Graduate Teaching Assitant
+      institution: Wright State University, Dayton, OH.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
             
