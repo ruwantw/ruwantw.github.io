@@ -37,4 +37,41 @@
             - Entity prediction in autonomous driving.
             - Label augmentation in existing datasets with information about unobserved entities.
             - Rare event detection and prediction in smart manufacturing/ Industry 4.0.
+
+
+   - title: Research Intern - Neurosymbolic AI
+      institution: Bosch Center for AI, Pittsburgh, PA.
+      year: 2019 - 2022 (Summers 2019, 2020 and 2022)
+      description:
+        - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
+        - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
+
+    - title: Senior Software Engineer (Machine Learning)
+      institution: London Stock Exchange Group (LSEG)
+      year: 2014-02 - 2017-07
+      description:
+        - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
+        - Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators.
+
+    - title: Graduate Research Assitant
+      institution: Kno.e.sis Center, Wright State University, Dayton, OH.
+      year: 2017-08 - 2019-05
+      description:
+        - Developed an extreme multi-label classification (XML) model using background knowledge to predict ICD-9 codes in MIMIC-III Electronic Medical Record.
+        - Devised a framework for predicting the intensity of a user’s emotion based on unstructured short texts (e.g., tweets) and the affected category.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Graduate Teaching Assitant
+      institution: University of South Carolina, Columbia, SC.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs and grading for the courses CSCE 145/146 Algorithms Design, and CSCE 311 Operating Systems.
+        
+    - title: Graduate Teaching Assitant
+      institution: Wright State University, Dayton, OH.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
             
