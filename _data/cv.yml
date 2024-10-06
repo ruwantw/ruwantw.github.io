@@ -52,6 +52,9 @@
 - title: Tutorial/Workshop Organization
   type: time_table
   contents:
+    - title: <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/"> Knowledge-driven Processes for Big Data Management and Applications </a>
+      institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC. <em> (Upcoming) </em>
+      year: 2024-12
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China
       year: 2022-10
@@ -67,6 +70,6 @@
   contents:
     - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654&HistoricalAwards=false"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
       contents:
-       - <em> Status </em> - Awarded (3.8+M) | <em> Role </em> - Significant contribution -- identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
+       - Status - Awarded (3.8+M) | Role - Significant contribution -- identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
 
        
