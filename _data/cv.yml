@@ -1,77 +1,82 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Ruwan Wickramarachchi
+    - name: Email
+      value: ruwan[AT]email.sc.edu
+    - name: Address
+      value: AI Institute, University of South Carolina, Columbia, SC.
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D.
+      institution: University of South Carolina, Columbia, SC.
+      year: 2019-08 - Present
+      
+    - title: M.Sc.
+      institution: Wright State University, Dayton, OH.
+    
+     - title: B.Sc.
+      institution: University of Colombo, Sri Lanka
+      year: 2009-10 - 2014-02
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assitant
+      institution: [AI Institute](https://aiisc.ai), University of South Carolina
+      year: 2019-08 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., autonomous driving and smart manufacturing).
+        - Applications:
+          - Entity prediction in autonomous driving.
+          - Label augmentation in existing datasets with information about unobserved entities.
+          - Rare event detection and prediction in smart manufacturing
+
+    - title: Research Intern - Neurosymbolic AI
+      institution: [Bosch Center for AI](https://www.bosch-ai.com/), Pittsburgh, PA.
+      year: 2019 - 2022 (Summers 2019, 2020 and 2022)
       description:
-        - Description 1.
-        - Description 2.
+        - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
+        - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Senior Software Engineer (Machine Learning)
+      institution: [London Stock Exchange Group (LSEG)](https://www.lseg.com/en)
+      year: 2014-02 - 2017-07
       description:
+        - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
+        - Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Graduate Research Assitant
+      institution: [Kno.e.sis Center](https://engineering-computer-science.wright.edu/lab/knoesis), Wright State University, Dayton, OH.
+      year: 2017-08 - 2019-05
+      description:
+        - Developed an extreme multi-label classification (XML) model using background knowledge to predict ICD-9 codes in MIMIC-III Electronic Medical Record.
+        - Devised a framework for predicting the intensity of a user’s emotion based on unstructured short texts (e.g., tweets) and the affected category.
 
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Graduate Teaching Assitant
+      institution: University of South Carolina, Columbia, SC.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs and grading for the courses CSCE 145/146 Algorithms Design, and CSCE 311 Operating Systems.
+        
+    - title: Graduate Teaching Assitant
+      institution: Wright State University, Dayton, OH.
+      year: 2020-08 - 2021-05
+      description:
+        - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
 
-- title: Honors and Awards
+- title: Tutorials Organized
   type: time_table
   contents:
-    - year: 1921
+    - title: 1921
+      year: 
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
