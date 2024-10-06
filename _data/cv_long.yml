@@ -5,28 +5,35 @@
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
       year: 2019-08 - Present
       description:
-        - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
+        - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems.
+        - title: Applications
+          contents:
+            - Entity prediction in autonomous driving.
+            - Label augmentation in existing datasets with information about unobserved entities.
+            - Rare event detection and prediction in smart manufacturing/ Industry 4.0
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
       year: 2019-05 - 2022-08 
       description:
        - Summer internships in 2019, 2020, and 2022.
-       - Built large-scale knowledge graphs to represent real-world multimodal scene data from the autonomous driving domain.
-       - Developed innovative methods to enhance scene understanding in autonomous systems (US Patent Applications 17/508,227, 17/939,517, and 18/434,02).
+       - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
+       - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
 
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
       year: 2014-02  -  2017-07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
-        
+        - Developed a non-standard algorithm to predict capital market trends by leveraging social media data, regulatory reports, and financial indicators.
+
     - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
       year: 2017-08 - 2019-05
       description:
-        - Developed methods to leverage background knowledge for extreme multi-label classification (XML) for predicting ICD-9 codes in Electronic Medical Records.
-        
+        - Developed an extreme multi-label classification (XML) model using background knowledge to predict ICD-9 codes in MIMIC-III Electronic Medical Record.
+        - Devised a framework for predicting the intensity of a user’s emotion based on unstructured short texts (e.g., tweets) and the affected category.
+
 - title: Teaching Experience
   type: time_table
   contents:
@@ -34,13 +41,13 @@
       institution: University of South Carolina, Columbia, SC.
       year: 2020-08 - 2021-05
       description:
-        - Conducted labs for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems.
+        - Conducted labs and grading for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems courses.
     
     - title: Graduate Teaching Assistant
       institution: Wright State University, Dayton, OH.
       year: 2020-08 - 2021-05
       description:
-        - Conducted labs for the CEG2350 - Operating System Concepts and Usage
+        - Conducted labs for the course CEG2350 - Operating System Concepts and Usage
 
 - title: Tutorial/Workshop Organization
   type: time_table
@@ -61,7 +68,7 @@
 - title: Grant Writing
   type: list
   contents:
-    - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654" > NSF Grant No. 2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
+    - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
       contents:
         - <strong> Status </strong> - Awarded (3.8+M) | <strong> Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
        
