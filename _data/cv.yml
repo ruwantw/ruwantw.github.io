@@ -3,29 +3,30 @@
   contents:
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
-      year: 2019-08  &mdash Present
+      year: 2019-08 - Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
-      year: 2019-05  &mdash 2022-08 
+      year: 2019.05 - 2022.08 
       description:
        - Summer internships in 2019, 2020, and 2022.
        - Built large-scale knowledge graphs to represent real-world multimodal scene data and developed novel methods to leverage them for improved scene understanding in autonomous driving.
-
-    - title: Senior Software Engineer (Machine Learning)
-      institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
-      year: 2014-02 - 2017-07
-      description:
-        - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
         
     - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
       year: 2017-08 - 2019-05
       description:
         - Developed methods to leverage background knowledge for extreme multi-label classification (XML) for predicting ICD-9 codes in Electronic Medical Records.
-        
+  
+    - title: Senior Software Engineer (Machine Learning)
+      institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
+      year: 2014-02 - 2017-07
+      description:
+        - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
+
+
 - title: Teaching 
   type: time_table
   contents:
