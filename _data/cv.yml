@@ -3,13 +3,13 @@
   contents:
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
-      year: 2019-08 - Present
+      year: 2019-08  &mdash Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
-      year: 2019-05 - 2022-08 
+      year: 2019-05  &mdash 2022-08 
       description:
        - Summer internships in 2019, 2020, and 2022.
        - Built large-scale knowledge graphs to represent real-world multimodal scene data and developed novel methods to leverage them for improved scene understanding in autonomous driving.
