@@ -10,15 +10,13 @@
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
       year: 2019-05 - 2022-08 
-      year: 2019-05 - 2022-08 
       description:
        - Summer internships in 2019, 2020, and 2022.
-       - Built large-scale knowledge graphs to represent real-world multimodal scene data from the autonomous driving domain.
-       - Developed innovative methods to enhance scene understanding in autonomous systems (US Patent Applications 17/508,227, 17/939,517, and 18/434,02).
+       - Built large-scale knowledge graphs to represent real-world multimodal scene data and developed novel methods to leverage them for improved scene understanding in autonomous driving.
 
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
-      year: 2014-02  -  2017-07
+      year: 2014-02 - 2017-07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
         
@@ -39,7 +37,7 @@
     
     - title: Graduate Teaching Assistant
       institution: Wright State University, Dayton, OH.
-      year: 2020-08 - 2021-05
+      year: 2018-08 - 2019-05
       description:
         - Conducted labs for the CEG2350 - Operating System Concepts and Usage
 
@@ -62,9 +60,9 @@
 - title: Volunteer
   type: list
   contents:
-    - Student Volunteer <ul><li>The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li><li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li></ul>
-    - Reviewer  <ul><li>TNNLS, CIKM 2020, The Web Conference 2020, ICWSM-18, IEEE Internet Computing, AAAI-2023, ACL 2020</li></ul>
-    - Program Committee Member  <ul><li>ISWC 2021, K-iL 2021, KiML2020, The Web Conference (formally WWW) 2018</li></ul>
+    - <strong>Student Volunteer</strong> <ul><li>The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li><li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li></ul>
+    - <strong>Reviewer</strong>  <ul><li>TNNLS, CIKM 2020, The Web Conference 2020, ICWSM-18, IEEE Internet Computing, AAAI-2023, ACL 2020</li></ul>
+    - <strong>Program Committee Member</strong>  <ul><li>ISWC 2021, K-iL 2021, KiML2020, The Web Conference (formally WWW) 2018</li></ul>
 
 - title: Grant Writing
   type: list
