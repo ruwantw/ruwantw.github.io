@@ -3,7 +3,7 @@
   contents:
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
-      year: 2019-08 - Present
+      year: 2019.08 - Present
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
 
@@ -16,13 +16,13 @@
         
     - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
-      year: 2017-08 - 2019-05
+      year: 2017.08 - 2019.05
       description:
         - Developed methods to leverage background knowledge for extreme multi-label classification (XML) for predicting ICD-9 codes in Electronic Medical Records.
   
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
-      year: 2014-02 - 2017-07
+      year: 2014.02 - 2017.07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.
 
@@ -32,13 +32,13 @@
   contents:
     - title: Graduate Teaching Assistant
       institution: University of South Carolina, Columbia, SC.
-      year: 2020-08 - 2021-05
+      year: 2020.08 - 2021.05
       description:
         - Conducted labs for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems.
     
     - title: Graduate Teaching Assistant
       institution: Wright State University, Dayton, OH.
-      year: 2018-08 - 2019-05
+      year: 2018.08 - 2019.05
       description:
         - Conducted labs for the CEG2350 - Operating System Concepts and Usage
 
@@ -47,16 +47,16 @@
   contents:
     - title: <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/"> Knowledge-driven Processes for Big Data Management and Applications </a>
       institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC. <em> (Upcoming) </em>
-      year: 2024-12
+      year: 2024.12
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China
-      year: 2022-10
+      year: 2022.10
     - title: <a href="https://dl.acm.org/doi/abs/10.1145/3372923.3404862"> Knowledge-infused Deep Learning </a>
       institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual
-      year: 2020-07
+      year: 2020.07
     - title: <a href="https://us2ts.org/2020/program-hybrid-ai"> Hybrid AI for Context Understanding </a>
       institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC
-      year: 2020-03
+      year: 2020.03
 
 - title: Volunteer
   type: list
