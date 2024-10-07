@@ -50,16 +50,16 @@
       year: 2024.12.15
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       year: 2022.10.24
-      institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China
+      institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China.
       
     - title: <a href="https://dl.acm.org/doi/abs/10.1145/3372923.3404862"> Knowledge-infused Deep Learning </a>
-      institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual
+      institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual.
       year: 2020.07.15
     - title: <a href="https://us2ts.org/2020/program-hybrid-ai"> Hybrid AI for Context Understanding </a>
-      institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC
+      institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC.
       year: 2020.03.09
 
-- title: Volunteer
+- title: Volunteer Services 
   type: list
   contents:
     - <strong>Student Volunteer</strong> <ul><li>The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li><li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li></ul>
