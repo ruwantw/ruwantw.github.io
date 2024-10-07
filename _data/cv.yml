@@ -62,14 +62,15 @@
 - title: Volunteer
   type: list
   contents:
-    - Student Volunteer <ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol>
-    - Reviewer  <ol><li>Cookie</li><li>Cake</li><li>Muffin</li></ol>
+    - Student Volunteer <ul><li>The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li><li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li></ul>
+    - Reviewer  <ul><li>TNNLS, CIKM 2020, The Web Conference 2020, ICWSM-18, IEEE Internet Computing, AAAI-2023, ACL 2020</li></ul>
+    - Program Committee Member  <ul><li>ISWC 2021, K-iL 2021, KiML2020, The Web Conference (formally WWW) 2018</li></ul>
 
 - title: Grant Writing
   type: list
   contents:
-    -  <i class="fa-solid fa-dash"></i> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a> -- <strong> Status </strong> - Awarded (3.8+M) - <strong>| Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
-    -  <i class="fa-solid fa-dash"></i> NSF HDR Institute: Data and Knowledge enabled Modeling and Learning for Generative Design of Advanced Material and Molecules -- <strong> | Status - </strong> Not awarded, ranked “competitive” <strong> | Role - </strong> Significant Contribution – Contributed to the coordination, conceptualization and writing of the proposal.
+    - <ul><li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a> -- <strong> Status </strong> - Awarded (3.8+M) - <strong>| Role </strong> - Significant contribution - identified a novel use-case of my research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal</li><li>NSF HDR Institute -- Data and Knowledge enabled Modeling and Learning for Generative Design of Advanced Material and Molecules -- <strong> | Status - </strong> Not awarded, ranked “competitive” <strong> | Role - </strong> Significant Contribution – Contributed to the coordination, conceptualization and writing of the proposala</li></ul>
+
 
 
 
