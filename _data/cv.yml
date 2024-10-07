@@ -58,17 +58,14 @@
       institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC
       year: 2020-03
 
-- title: Academic Interests
-  type: nested_list
+
+- title: Grant Writing
+  type: list
   contents:
-    - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a> 
-      items:
-        - <strong> Status </strong> - Awarded (3.8+M) | <strong> Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a> -- <strong> Status </strong> - Awarded (3.8+M) | <strong> Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
+    - Description 2.
+    - Description 1.
+    - Description 2.
 
 
 
