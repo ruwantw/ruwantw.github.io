@@ -1,4 +1,4 @@
-- title: Work Experience
+- title: Work
   type: time_table
   contents:
     - title: Graduate Research Assistant
@@ -26,7 +26,7 @@
       description:
         - Developed methods to leverage background knowledge for extreme multi-label classification (XML) for predicting ICD-9 codes in Electronic Medical Records.
         
-- title: Teaching Experience
+- title: Teaching 
   type: time_table
   contents:
     - title: Graduate Teaching Assistant
@@ -41,7 +41,7 @@
       description:
         - Conducted labs for the CEG2350 - Operating System Concepts and Usage
 
-- title: Tutorial/Workshop Organization
+- title: Tutorials/Workshops
   type: time_table
   contents:
     - title: <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/"> Knowledge-driven Processes for Big Data Management and Applications </a>
