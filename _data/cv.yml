@@ -45,8 +45,11 @@
 - title: Tutorials/Workshops
   type: time_table
   contents:
+    - title: <a href="https://aaai.org/conference/aaai/aaai-25/"> Developing Explainable Multimodal AI Models with Hands-On Lab on the Life-Cycle of Rare Event Prediction in Manufacturing </a>
+      institution: The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA. <em> <p style="color:#c85e5c"> (Upcoming) </p> </em>
+      year: 2025.02.25
     - title: <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/"> Knowledge-driven Processes for Big Data Management and Applications </a>
-      institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC. <em> (Upcoming) </em>
+      institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC. <em> <p style="color:#c85e5c"> (Upcoming) </p> </em>
       year: 2024.12.15
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       year: 2022.10.24
