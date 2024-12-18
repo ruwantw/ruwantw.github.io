@@ -45,12 +45,14 @@
 - title: Tutorials/Workshops
   type: time_table
   contents:
-    - title: <a href="https://aaai.org/conference/aaai/aaai-25/"> Developing Explainable Multimodal AI Models with Hands-On Lab on the Life-Cycle of Rare Event Prediction in Manufacturing </a>
+    - title: <a href="https://aiisc.ai/aaai25/AAAI-Lab-Rare-Event-Prediction/"> Developing Explainable Multimodal AI Models with Hands-On Lab on the Life-Cycle of Rare Event Prediction in Manufacturing </a>
       institution: The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA. <em style="color:#c85e5c"> (Upcoming) </em>
       year: 2025.02.25
+      
     - title: <a href="https://aiisc.ai/empwrbd24/"> Knowledge-driven Processes for Big Data Management and Applications </a>
-      institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC. <em style="color:#c85e5c"> (Upcoming) </em>
-      year: 2024.12.15
+      institution: IEEE International Conference on Big Data (IEEE BigData 2024), Washington, DC.
+      year: 2024.12.17
+      
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       year: 2022.10.24
       institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China.
@@ -58,6 +60,7 @@
     - title: <a href="https://dl.acm.org/doi/abs/10.1145/3372923.3404862"> Knowledge-infused Deep Learning </a>
       institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual.
       year: 2020.07.15
+      
     - title: <a href="https://us2ts.org/2020/program-hybrid-ai"> Hybrid AI for Context Understanding </a>
       institution: The 3rd U.S. Semantic Technologies Symposium (US2TS), Raleigh, NC.
       year: 2020.03.09
