@@ -70,8 +70,20 @@
   contents:
     - role: Student Volunteer
       items:
+        - The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE.
+        - The 24th International Semantic Web Conference (ISWC 2024), Baltimore, USA.
         - The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA
         - The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada
+        
+    - role: Program Committee Member
+      items:
+        - AAAI 2025
+        - IJCAI 2025
+        - ISWC 2021
+        - K-iL 2021
+        - KiML2020
+        - The Web Conference (formally WWW) 2018
+        
     - role: Reviewer
       items:
         - TNNLS
@@ -81,14 +93,6 @@
         - IEEE Internet Computing
         - AAAI-2023
         - ACL 2020
-    - role: Program Committee Member
-      items:
-        - AAAI 2025
-        - IJCAI 2025
-        - ISWC 2021
-        - K-iL 2021
-        - KiML2020
-        - The Web Conference (formally WWW) 2018
 
 - title: Grant Writing
   type: list
