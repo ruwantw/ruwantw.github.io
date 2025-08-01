@@ -68,32 +68,9 @@
 - title: Volunteer Services 
   type: list
   contents:
-    - <strong>Student Volunteer</strong> 
-    <ul>
-      <li>The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE.</li>
-      <li>The 24th International Semantic Web Conference (ISWC 2024), Baltimore, USA.</li>
-      <li>The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li>
-      <li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li>
-    </ul>
-    - <strong> Program Committee Member</strong>
-    <ul>
-      <li>AAAI 2025</li>
-      <li>IJCAI 2025</li>
-      <li>ISWC 2021</li>
-      <li>K-iL 2021</li>
-      <li>KiML2020</li>
-      <li>The Web Conference (formally WWW) 2018</li>
-    </ul>
-    - <strong>Reviewer</strong>
-    <ul>
-      <li>TNNLS</li>
-      <li>CIKM 2020</li>
-      <li>The Web Conference 2020</li>
-      <li>ICWSM-18</li>
-      <li>IEEE Internet Computing</li>
-      <li>AAAI-2023</li>
-      <li>ACL 2020</li>
-    </ul>
+    - <strong> Student Volunteer </strong> <ul> <li>The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE.</li> <li>The 24th International Semantic Web Conference (ISWC 2024), Baltimore, USA.</li> <li>The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li> <li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li> </ul>
+    - <strong> Program Committee Member </strong> <ul> <li>AAAI 2026</li> <li>IJCAI 2025</li> <li>ISWC 2021</li> <li>K-iL 2021</li> <li>KiML2020</li> <li>The Web Conference (formally WWW) 2018</li> </ul>
+    - <strong> Reviewer </strong> <ul> <li>TNNLS</li> <li>CIKM 2020</li> <li>The Web Conference 2020</li> <li>ICWSM-18</li>  <li>IEEE Internet Computing</li> <li>AAAI-2023</li> <li>ACL 2020</li> </ul>
 
 - title: Grant Writing
   type: list
