@@ -2,7 +2,7 @@
 layout: about_mod
 title: About
 permalink: /
-subtitle: <a href='https://aiisc.ai/'>AI Institute, University of South Carolina</a>
+subtitle: <a href='https://www.bosch-ai.com/'> Bosch Center for Artificial Intelligence </a>
 
 profile:
   align: left
