@@ -47,7 +47,7 @@
       description:
         - Conducted labs for <a href="https://www.wright.edu/degrees-and-programs/catalog/courses/ceg-2350">CEG2350 - Operating System Concepts and Usage</a>.
 
-- title: Tutorials/Workshops
+- title: Tutorials & Workshops Organized
   type: time_table
   contents:
     - title: <a href="https://embodied-nesy.github.io/"> First Workshop on Embodied Neuro-Symbolic AI for Reliable and Safe Robotics (ReS AI) </a>
@@ -117,5 +117,5 @@
 - title: Grant Writing
   type: list
   contents:
-    - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654">NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing</a> — Awarded ($3.8M+); Role: Lead Student Contributor. Helped shape the proposal and identify a novel Industry 4.0 use case.
-    - NSF HDR Institute — Data and Knowledge Enabled Modeling and Learning for Generative Design of Advanced Materials and Molecules — Not awarded, ranked “competitive”; Role: Lead Student Contributor. Contributed to coordination, literature review, conceptualization, and proposal writing.
+    - '• <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654">NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing</a> — Awarded ($3.8M+); Role: Lead Student Contributor. Helped shape the proposal and identify a novel Industry 4.0 use case.'
+    - "• NSF HDR Institute — Data and Knowledge Enabled Modeling and Learning for Generative Design of Advanced Materials and Molecules — Not awarded, ranked ‘competitive’; Role: Lead Student Contributor. Contributed to coordination, literature review, conceptualization, and proposal writing."

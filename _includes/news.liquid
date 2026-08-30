@@ -2,12 +2,7 @@
   {% assign news = site.data.news | sort: 'date' | reverse %}
   {% if news != blank %}
     {% assign news_size = news | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
-      {% endif %}
-    >
+    <div class="table-responsive">
       <table class="table table-sm table-borderless">
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
