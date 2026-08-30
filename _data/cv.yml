@@ -3,18 +3,21 @@
   contents:
     - title: Research Scientist
       institution: <a href="https://www.bosch.com/research/"> Bosch Research, Pittsburgh, PA. </a>
+      institution_logo: /assets/img/work_logos/bosch.svg
       year: 2025.08 - Present
       description:
         - Research at the intersection of physical AI and embodied neuro-symbolic AI, integrating robot learning, representation learning, and reasoning to enhance the safety, reliability, and adaptability of real-world industrial and autonomous systems.
 
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
+      institution_logo: /assets/img/work_logos/usc.png
       year: 2019.08 - 2025.08
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
+      institution_logo: /assets/img/work_logos/bosch.svg
       year: 2019.05 - 2022.08
       description:
         - Summer internships in 2019, 2020, and 2022.
@@ -22,12 +25,14 @@
 
     - title: Graduate Research Assistant
       institution: Kno.e.sis Center, Wright State University, Dayton, OH.
+      institution_logo: /assets/img/work_logos/wsu.png
       year: 2017.08 - 2019.05
       description:
         - Developed methods to leverage background knowledge for extreme multi-label classification (XML) for predicting ICD-9 codes in Electronic Medical Records.
 
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
+      institution_logo: /assets/img/work_logos/lseg.svg
       year: 2014.02 - 2017.07
       description:
         - Responsible for developing novel machine learning algorithms and using existing ones to improve and/or introduce novel solutions to the product stack of LSEG.

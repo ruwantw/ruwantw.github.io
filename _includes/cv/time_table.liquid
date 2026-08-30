@@ -13,6 +13,17 @@
                     </span>
                   </td>
                 </tr>
+                {% if content.institution_logo %}
+                  <tr>
+                    <td class="text-center" style="padding-top: 0.35rem;">
+                      <img
+                        src="{{ content.institution_logo | relative_url }}"
+                        alt="{{ content.institution | strip_html | strip }}"
+                        style="width: 22px; height: 22px; object-fit: contain; opacity: 0.9;"
+                      />
+                    </td>
+                  </tr>
+                {% endif %}
                 {% if content.location %}
                   <tr>
                     <td>
