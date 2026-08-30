@@ -1,9 +1,15 @@
 - title: Work
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: <a href="https://www.bosch.com/research/"> Bosch Research, Pittsburgh, PA. </a>
+      year: 2025.08 - Present
+      description:
+        - Research at the intersection of physical AI and embodied neuro-symbolic AI, integrating robot learning, representation learning, and reasoning to enhance the safety, reliability, and adaptability of real-world industrial and autonomous systems.
+
     - title: Graduate Research Assistant
       institution: <a href="https://aiisc.ai"> AI Institute, University of South Carolina, Columbia, SC. </a>
-      year: 2019.08 - Present
+      year: 2019.08 - 2025.08
       description:
         - Leading the efforts in introducing a Neurosymbolic AI approach to scene understanding to improve machine perception and context understanding in autonomous systems (e.g., Autonomous Driving, Smart Manufacturing).
 
@@ -44,6 +50,15 @@
 - title: Tutorials/Workshops
   type: time_table
   contents:
+    - title: <a href="https://embodied-nesy.github.io/"> First Workshop on Embodied Neuro-Symbolic AI for Reliable and Safe Robotics (ReS AI) </a>
+      institution: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Pittsburgh, PA.
+      year: 2026.09.27
+      lead_organizer: true
+
+    - title: '<a href="https://research.ibm.com/publications/from-inception-to-productization-hands-on-lab-for-the-lifecycle-of-multimodal-agentic-ai-in-industry-40"> From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0 </a>'
+      institution: The 40th AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore.
+      year: 2026.01.20
+
     - title: <a href="https://aiisc.ai/aaai25/AAAI-Lab-Rare-Event-Prediction/"> Developing Explainable Multimodal AI Models with Hands-On Lab on the Life-Cycle of Rare Event Prediction in Manufacturing </a>
       institution: The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA.
       year: 2025.02.25
@@ -55,6 +70,7 @@
     - title: <a href="https://kl4ad.github.io/2022"> Knowledge-infused Learning for Autonomous Driving (KL4AD) </a>
       year: 2022.10.24
       institution: The 21st International Semantic Web Conference (ISWC), Virtual/ Hangzhou, China.
+      lead_organizer: true
 
     - title: <a href="https://dl.acm.org/doi/abs/10.1145/3372923.3404862"> Knowledge-infused Deep Learning </a>
       institution: The 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual.
@@ -65,13 +81,47 @@
       year: 2020.03.09
 
 - title: Volunteer Services
-  type: list
+  type: list_groups
   contents:
-    - <strong> Student Volunteer </strong> <ul> <li>The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE.</li> <li>The 24th International Semantic Web Conference (ISWC 2024), Baltimore, USA.</li> <li>The 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, USA</li> <li>The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023), Toronto, Canada</li> </ul>
-    - <strong> Program Committee Member </strong> <ul> <li>AAAI 2026</li> <li>IJCAI 2025</li> <li>ISWC 2021</li> <li>K-iL 2021</li> <li>KiML2020</li> <li>The Web Conference (formally WWW) 2018</li> </ul>
-    - <strong> Reviewer </strong> <ul> <li>TNNLS</li> <li>CIKM 2020</li> <li>The Web Conference 2020</li> <li>ICWSM-18</li>  <li>IEEE Internet Computing</li> <li>AAAI-2023</li> <li>ACL 2020</li> </ul>
+    - category: Student Volunteer
+      items:
+        - name: COLING 2025
+          school: Abu Dhabi, UAE
+        - name: ISWC 2024
+          school: Baltimore, USA
+        - name: AAAI 2020
+          school: New York, USA
+        - name: ACL 2023
+          school: Toronto, Canada
+    - category: Program Committee Member
+      items:
+        - name: AAAI 2027
+        - name: AAAI 2026
+        - name: IJCAI 2025
+        - name: ISWC 2021
+        - name: K-iL 2021
+        - name: KiML 2020
+        - name: The Web Conference (formerly WWW) 2018
+    - category: Reviewer
+      items:
+        - name: CoRL 2026
+        - name: IROS 2026
+        - name: TNNLS
+        - name: CIKM 2020
+        - name: The Web Conference 2020
+        - name: ICWSM 2018
+        - name: IEEE Internet Computing
+        - name: AAAI 2023
+        - name: ACL 2020
 
 - title: Grant Writing
-  type: list
+  type: list_groups
   contents:
-    - <ul><li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a> -- <strong> Status </strong> - Awarded ($3.8M+) - <strong>| Role </strong> - Lead Student Contributor - identified a novel use-case of my research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal</li><li>NSF HDR Institute -- Data and Knowledge enabled Modeling and Learning for Generative Design of Advanced Material and Molecules -- <strong> | Status - </strong> Not awarded, ranked “competitive” <strong> | Role - </strong> Lead Student Contributor – Contributed to the coordination, literature review, conceptualization and writing of the proposal</li></ul>
+    - category: Research Grants
+      items:
+        - name: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654">NSF Grant No. 2119654 RII Track 2 FEC Enabling Factory to Factory (F2F) Networking for Future Manufacturing</a>
+          school: Status — Awarded ($3.8M+); Role — Lead Student Contributor
+          time: Contributed to the conceptualization and writing of the proposal, identifying a novel use case for my research in the Industry 4.0 domain.
+        - name: NSF HDR Institute — Data and Knowledge Enabled Modeling and Learning for Generative Design of Advanced Materials and Molecules
+          school: Status — Not awarded, ranked “competitive”; Role — Lead Student Contributor
+          time: Contributed to coordination, literature review, conceptualization, and proposal writing.

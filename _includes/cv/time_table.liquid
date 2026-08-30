@@ -29,7 +29,14 @@
         {% endif %}
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           {% if content.title %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ content.title }}</h6>
+            {% if content.lead_organizer %}
+              <h6 class="title font-weight-bold ml-1 ml-md-4 cv-lead-organizer">
+                {{ content.title }}
+                <span class="cv-lead-organizer-label">Lead Organizer</span>
+              </h6>
+            {% else %}
+              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ content.title }}</h6>
+            {% endif %}
           {% endif %}
           {% if content.department or content.institution %}
             <table class="table-cv ml-1 ml-md-4 institution">
