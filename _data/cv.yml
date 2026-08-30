@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: Research Scientist
-      institution: <a href="https://www.bosch.com/research/"> Bosch Research, Pittsburgh, PA. </a>
+      institution: <a href="https://www.bosch.com/research/"> Bosch Center for Artificial Intelligence, Pittsburgh, PA. </a>
       institution_logo: /assets/img/work_logos/bosch.svg
       year: 2025.08 - Present
       description:
