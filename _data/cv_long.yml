@@ -14,11 +14,11 @@
 
     - title: Research Intern - Neurosymbolic AI
       institution: <a href="https://www.bosch-ai.com/"> Bosch Center for AI, Pittsburgh, PA. </a>
-      year: 2019-05 - 2022-08 
+      year: 2019-05 - 2022-08
       description:
-       - Summer internships in 2019, 2020, and 2022.
-       - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
-       - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
+        - Summer internships in 2019, 2020, and 2022.
+        - Built a dataset-agnostic ontology and multiple large-scale knowledge graphs from high-quality, real-world data for the autonomous driving domain.
+        - Developed innovative methods to enhance scene understanding in autonomous systems, leading to multiple joint publications and patents, including US Patent Applications 17/508,227, 17/939,517, and 18/434,02.
 
     - title: Senior Software Engineer (Machine Learning)
       institution: <a href="https://www.lseg.com/en"> London Stock Exchange Group (LSEG), Sri Lanka </a>
@@ -42,7 +42,7 @@
       year: 2020-08 - 2021-05
       description:
         - Conducted labs and grading for CSCE 145/146 Algorithms Design and CSCE 311 Operating Systems courses.
-    
+
     - title: Graduate Teaching Assistant
       institution: Wright State University, Dayton, OH.
       year: 2020-08 - 2021-05
@@ -71,4 +71,3 @@
     - title: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119654"> #2119654 RII Track 2 FEC: Enabling Factory to Factory (F2F) Networking for Future Manufacturing </a>
       contents:
         - <strong> Status </strong> - Awarded (3.8+M) | <strong> Role </strong> - Significant contribution - identified a novel use-case of my dissertation research in Industry 4.0 domain, and contributed to the conceptualization and writing of the proposal.
-       
