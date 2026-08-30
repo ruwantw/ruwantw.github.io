@@ -3,23 +3,23 @@
     <li class="list-group-item">
       <div class="row">
         {% if content.year %}
-          <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
+          <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px; min-width: 75px;">
             <table class="table-cv">
               <tbody>
                 <tr>
                   <td>
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px; display: inline-block; width: 75px;">
                       {{- content.year -}}
                     </span>
                   </td>
                 </tr>
                 {% if content.institution_logo %}
                   <tr>
-                    <td class="text-center" style="padding-top: 0.35rem;">
+                    <td class="text-center" style="padding-top: 0.35rem; padding-bottom: 0.15rem; width: 75px;">
                       <img
+                        class="cv-employer-logo"
                         src="{{ content.institution_logo | relative_url }}"
                         alt="{{ content.institution | strip_html | strip }}"
-                        style="width: 22px; height: 22px; object-fit: contain; opacity: 0.9;"
                       />
                     </td>
                   </tr>

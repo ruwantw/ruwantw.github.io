@@ -42,6 +42,16 @@ p.location {
   white-space: nowrap;
 }
 
+img.cv-employer-logo {
+  width: 75px;
+  height: 28px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  opacity: 0.9;
+  filter: grayscale(0.15);
+}
+
 i.iconlocation {
   color: var(--global-theme-color);
   font-size: 0.8rem;
