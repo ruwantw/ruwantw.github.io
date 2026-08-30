@@ -1,0 +1,62 @@
+- date: 2026-05-20
+  inline: true
+  related_posts: false
+  content: |
+    I am serving as lead organizer for the First Workshop on [Embodied Neuro-Symbolic AI for Reliable and Safe Robotics (ReS AI)](https://embodied-nesy.github.io/) at [IROS 2026](https://2026.ieee-iros.org/). We welcome contributions on a broad range of topics, including neuro-symbolic AI, cognitive robotics, representation learning, and reasoning.
+
+- date: 2025-09-01
+  inline: true
+  related_posts: false
+  content: |
+    We are organizing a tutorial on [From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0](https://research.ibm.com/publications/from-inception-to-productization-hands-on-lab-for-the-lifecycle-of-multimodal-agentic-ai-in-industry-40) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lq02) in Singapore.
+
+- date: 2025-08
+  inline: true
+  related_posts: false
+  content: |
+    I joined Bosch Research in Pittsburgh as a Research Scientist, where I work on neuro-symbolic AI, hybrid learning, and robotics for safe and reliable, real-world autonomous systems.
+
+- date: 2025-06-24
+  inline: true
+  related_posts: false
+  content: |
+    I successfully defended my Ph.D. dissertation, "A Neuro-Symbolic AI Approach to Scene Understanding in Autonomous Systems," at the AI Institute, University of South Carolina.
+
+- date: 2025-05-01
+  inline: true
+  related_posts: false
+  content: |
+    I will be giving an invited talk, “From Assembly Lines to the Open Road: Predicting Rare Events in Autonomous Systems,” at [EVA 2025](https://eva2025.unc.edu/) at UNC Chapel Hill on June 25, 2025.
+
+- date: 2024-12-01
+  inline: true
+  related_posts: false
+  content: |
+    Our paper ["Exploring the Abilities of Large Language Models to Solve Proportional Analogies via Knowledge-Enhanced Prompting"](https://arxiv.org/abs/2412.00869) has been accepted at [COLING 2025](https://coling2025.org/).
+
+- date: 2024-10-28
+  inline: true
+  related_posts: false
+  content: |
+    Our tutorial, "Developing Explainable Multimodal AI Models with a Hands-on Lab on the Lifecycle of Rare Event Prediction in Manufacturing," has been accepted for presentation at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+
+- date: 2024-10-01
+  inline: true
+  related_posts: false
+  content: |
+    Our paper ["A Comprehensive Survey on Rare Event Prediction"](https://dl.acm.org/doi/10.1145/3699955) has been accepted in [ACM Computing Surveys](https://dl.acm.org/journal/csur).
+
+- date: 2024-09-04
+  inline: true
+  related_posts: false
+  content: |
+    Two papers accepted at [ISWC 2024](https://iswc2024.semanticweb.org/event/3715c6fc-e2d7-47eb-8c01-5fe4ac589a52/summary).
+
+    - ["A Benchmark Knowledge Graph of Driving Scenes for Knowledge Completion Tasks"](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1636&context=aii_fac_pub) (Industry Track)
+    - ["Ontology Design Metapattern for RelationType Role Composition"](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1635&context=aii_fac_pub) (15th Workshop on Ontology Design and Patterns [(WOP 2024)](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/index.html))
+
+- date: 2024-08-30
+  inline: true
+  related_posts: false
+  content: |
+    Our tutorial proposal titled "Knowledge-driven Processes for Big Data Management and Applications" has been accepted for presentation at [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).

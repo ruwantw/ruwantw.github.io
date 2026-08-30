@@ -38,14 +38,14 @@ table {
 .news {
   .table {
     margin-bottom: 0;
-    font-size: 0.85rem;
-    line-height: 1.35;
+    font-size: 0.9rem;
+    line-height: 1.4;
 
     td,
     th {
-      font-size: 0.85rem;
-      padding-top: 0.2rem;
-      padding-bottom: 0.2rem;
+      font-size: 0.9rem;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
       padding-right: 0.75rem;
       vertical-align: top;
     }
@@ -54,7 +54,7 @@ table {
       width: 20%;
       white-space: nowrap;
       padding-left: 0;
-      font-size: 0.78rem;
+      font-size: 0.8rem;
     }
 
     td {
@@ -63,8 +63,8 @@ table {
   }
 
   .news-title {
-    font-size: 0.82rem;
-    line-height: 1.35;
+    font-size: 0.9rem;
+    line-height: 1.4;
   }
 }
 
