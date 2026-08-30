@@ -35,6 +35,37 @@ table {
   }
 }
 
+.news {
+  .table {
+    margin-bottom: 0;
+    font-size: 0.85rem;
+    line-height: 1.35;
+
+    td,
+    th {
+      padding-top: 0.2rem;
+      padding-bottom: 0.2rem;
+      padding-right: 0.75rem;
+      vertical-align: top;
+    }
+
+    th {
+      width: 20%;
+      white-space: nowrap;
+      padding-left: 0;
+      font-size: 0.78rem;
+    }
+
+    td {
+      padding-left: 0;
+    }
+  }
+
+  .news-title {
+    font-size: 0.85rem;
+  }
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
