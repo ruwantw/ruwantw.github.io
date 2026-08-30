@@ -63,8 +63,9 @@ table {
   }
 
   .news-title {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     line-height: 1.4;
+    font-weight: 700;
   }
 }
 
@@ -209,6 +210,9 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
   }
 
   .card-body {
