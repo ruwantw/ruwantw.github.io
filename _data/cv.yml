@@ -88,16 +88,6 @@
 - title: Volunteer Services
   type: list_groups
   contents:
-    - category: Student Volunteer
-      items:
-        - name: COLING 2025
-          school: Abu Dhabi, UAE
-        - name: ISWC 2024
-          school: Baltimore, USA
-        - name: AAAI 2020
-          school: New York, USA
-        - name: ACL 2023
-          school: Toronto, Canada
     - category: Program Committee Member
       items:
         - name: AAAI 2027
@@ -120,6 +110,16 @@
         - name: IEEE Internet Computing
         - name: AAAI 2023
         - name: ACL 2020
+    - category: Student Volunteer
+      items:
+        - name: COLING 2025
+          school: Abu Dhabi, UAE
+        - name: ISWC 2024
+          school: Baltimore, USA
+        - name: AAAI 2020
+          school: New York, USA
+        - name: ACL 2023
+          school: Toronto, Canada
 
 - title: Grant Writing
   type: list
