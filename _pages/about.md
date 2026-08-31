@@ -2,7 +2,7 @@
 layout: about_mod
 title: About
 permalink: /
-subtitle: <a href='https://www.bosch-ai.com/'> Bosch Center for Artificial Intelligence </a>
+subtitle: <a href='https://www.bosch.com/research/bcai/'> Bosch Center for Artificial Intelligence </a>
 
 profile:
   align: left
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Research Scientist at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/) in Pittsburgh. I completed my Ph.D. at the [AI Institute](https://aiisc.ai), University of South Carolina, under the guidance of [Dr. Amit Sheth](https://amit.aiisc.ai/). My dissertation focused on introducing a Neurosymbolic AI approach to scene understanding in autonomous systems, with an emphasis on building large-scale multimodal knowledge graphs and leveraging them to enhance machine perception and context understanding.
+I'm a Research Scientist at the [Bosch Center for Artificial Intelligence](https://www.bosch.com/research/bcai/) in Pittsburgh. I completed my Ph.D. at the [AI Institute](https://aiisc.ai), University of South Carolina, under the guidance of [Dr. Amit Sheth](https://amit.aiisc.ai/). My dissertation focused on introducing a Neurosymbolic AI approach to scene understanding in autonomous systems, with an emphasis on building large-scale multimodal knowledge graphs and leveraging them to enhance machine perception and context understanding.
 
 Previously, I spent three productive summers at the Bosch Center for AI in Pittsburgh, working with [Dr. Cory Henson](https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/) on exciting problems in knowledge representation and Neurosymbolic AI for autonomous driving.
 
