@@ -9,9 +9,9 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$azelea-red};
+  --global-theme-color: #{$bosch-blue};
   // --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$azelea-red};
+  --global-hover-color: #{$bosch-blue-dark};
   // --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
@@ -81,9 +81,9 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$azelea-red};
+  --global-theme-color: #{$bosch-blue};
   // --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$azelea-red};
+  --global-hover-color: #{$bosch-blue-dark};
   // --global-hover-color: #{$cyan-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
