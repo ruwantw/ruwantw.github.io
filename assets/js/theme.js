@@ -1,15 +1,15 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
-// Toggle through light, dark, and system theme settings.
+// Toggle directly between light and dark themes, while keeping a system default as the fallback.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
+
   if (themeSetting == "system") {
-    setThemeSetting("light");
-  } else if (themeSetting == "light") {
-    setThemeSetting("dark");
-  } else {
-    setThemeSetting("system");
+    setThemeSetting(determineComputedTheme() == "dark" ? "light" : "dark");
+    return;
   }
+
+  setThemeSetting(themeSetting == "dark" ? "light" : "dark");
 };
 
 // Change the theme setting and apply the theme.
