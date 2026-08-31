@@ -103,6 +103,7 @@
         - name: AAAI 2027
         - name: AAAI 2026
         - name: NeSy 2026
+        - name: CausalNeSy 2026
         - name: IJCAI 2025
         - name: ISWC 2021
         - name: K-iL 2021
