@@ -2,7 +2,7 @@
   inline: true
   related_posts: false
   content: |
-    Two papers accepted at [CoRL 2026] (https://www.corl.org/):
+    Two papers accepted at [CoRL 2026](https://www.corl.org/):
       - ["GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks"](https://arxiv.org/abs/2607.05369)
       - ["Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures"](https://arxiv.org/abs/2606.18328)
 
